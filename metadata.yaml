@@ -5,6 +5,9 @@ contributor:
     agent_name: Weirter, Louis
     gutenberg_agent_id: '56016'
     url: http://www.gutenberg.org/2009/agents/56016
+covers:
+- cover_type: archival
+  image_path: 70968-h/images/cover.jpg
 creator:
   author:
     agent_name: Jerrold, Walter
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7734
     wikipedia: https://en.wikipedia.org/wiki/Walter_Jerrold
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70968#The-Danube
 gutenberg_issued: '2023-06-14'
 identifiers:
   gutenberg: '70968'
